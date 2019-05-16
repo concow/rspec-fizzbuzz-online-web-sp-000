@@ -12,4 +12,3 @@ def fizzbuzz(integer)
     return nil
 end
 end
-end
